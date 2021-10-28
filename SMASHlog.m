@@ -4649,3 +4649,6 @@ saveas(gcf,fullfile(newFigDir,get(gcf,'name')),'epsc2')
 
 
 %% Testing out difftool in git
+
+
+%% Does this get pushed
