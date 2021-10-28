@@ -4646,3 +4646,6 @@ saveas(gcf,fullfile(newFigDir,get(gcf,'name')),'epsc2')
 %% Use existing RMSE image and bar chart by genus
 % C:\Users\cjl\OneDrive - DOI\HABs\SMASH\UKL\UK20200810\updateFigs\UK20200810_RMSE.fig and .eps
 % C:\Users\cjl\OneDrive - DOI\HABs\SMASH\UKL\UK20200810\updateFigs\UK20200810_RMSEbyTaxa.fig and .eps
+
+
+%% Testing out difftool in git
