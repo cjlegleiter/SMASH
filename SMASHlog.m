@@ -4652,3 +4652,5 @@ saveas(gcf,fullfile(newFigDir,get(gcf,'name')),'epsc2')
 
 
 %% Does this get pushed
+
+%% Now can I pull back a change made in Github online
